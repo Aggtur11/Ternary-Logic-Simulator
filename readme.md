@@ -1,7 +1,19 @@
 # Ternary Logic Simulator
 
-This project is made in Godot for simulating different gates in the Balanced Ternary Logic System.
+## Team
+- [Aadarsh Ganesh Goenka](https://github.com/aggtur11)
+- [Abhinav Ojha](https://github.com/justAbhi77)
+- [Harsh Maheshwari](https://github.com/tbse12)
+- [Nibaran Das](https://github.com/cmaterju-nibarandas)
 
-To open to Logic Simulator keep both the .exe and .pck files in the same folder.
+The Godot engine was utilized to create this project, which is designed to provide users with a comprehensive tool for designing and simulating various gates and functions in the Balanced Ternary Logic System.
 
-To load a circuit file open only the .json file not the connections.json file.
+Balanced Ternary Logic System is a unique approach to computing that uses three states instead of the traditional two states (0 and 1) found in binary logic. These three states are represented as -1, 0, and 1, which allows for more efficient calculations and a greater range of values.
+
+With this project, users can explore the capabilities of the Balanced Ternary Logic System by designing and simulating different gates and functions. The intuitive interface of the Godot engine makes it easy to create custom circuits and test their functionality in a simulated environment.
+
+Overall, this project serves as a powerful tool for anyone interested in exploring the potential of the Balanced Ternary Logic System and its applications in computing.
+
+# Screenshots
+
+<center><img src="https://i.imgur.com/ykIiR2A.png" width=512></center>
