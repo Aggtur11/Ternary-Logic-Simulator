@@ -4,6 +4,7 @@
 - [Aadarsh Ganesh Goenka](https://github.com/aggtur11)
 - [Abhinav Ojha](https://github.com/justAbhi77)
 - [Harsh Maheshwari](https://github.com/tbse12)
+- Shyamali Mitra
 - [Nibaran Das](https://github.com/cmaterju-nibarandas)
 
 The Godot engine was utilized to create this project, which is designed to provide users with a comprehensive tool for designing and simulating various gates and functions in the Balanced Ternary Logic System.
